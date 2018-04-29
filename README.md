@@ -1,5 +1,5 @@
 # Automatic-SRM-Academia-FeedBack
-Fill all the feedback entries by running a single script in your console window and save the remaining time for productive work.
+Fill all the feedback entries by running a single Script in your Browser's Console Window and save the remaining time for productive work.
 
 The following codes must be used corresponding to grades that you wish to give to your Teachers :
 
