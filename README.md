@@ -9,7 +9,7 @@ The following codes must be used corresponding to grades that you wish to give t
 4) Poor = "2727643000027208369"
 5) Very Good = "2727643000027208385"
 
-**STEPS TO FOLLOW : **
+__STEPS TO FOLLOW__ : 
 
 1) Login to Academia with your Credentials.
 2) Open Developer Tools [Hit F12]
