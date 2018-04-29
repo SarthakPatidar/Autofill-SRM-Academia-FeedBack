@@ -11,7 +11,7 @@ The following codes must be used corresponding to grades that you wish to give t
 
 __STEPS TO FOLLOW__ : 
 
-1) Login to Academia with your Credentials.
+1) Login to Academia with your Credentials and Goto Feedback Page.
 2) Open Developer Tools [Hit F12]
 3) Go to the Console Window.
 4) Copy the Code as it is and paste in Console Window.
